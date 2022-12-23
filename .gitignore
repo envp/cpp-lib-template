@@ -34,7 +34,6 @@
 # CMake
 .cmake
 build
-*.cmake
 cmake_install
 CMakeFiles/
 CMakeCache.txt
